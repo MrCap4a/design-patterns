@@ -1,0 +1,23 @@
+# Методичка и каталог заданий преподавателя
+MU_LR_Patterns.pdf
+Katalog_Zadaniy.zip
+Каталог заданий/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Файлы, которые программы создают при запуске
+settings.json
+shots.txt
+report.txt
+sowing.txt
+
+# IDE
+.idea/
+.vscode/
+
+# Служебные файлы для инициализации репозитория
+*.bundle
+init-repo.bat
